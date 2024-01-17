@@ -1,3 +1,16 @@
 h1 {
     text-align: center;
 }
+
+table {
+    margin: 0 auto;
+    border: 2px solid hsl(230, 100%, 50%);
+}
+
+thead {
+    background-color: hsla(230, 100%, 50%, 0.437);
+}
+
+td {
+    border-top: 1px solid hsl(250, 100%, 50%);
+}
