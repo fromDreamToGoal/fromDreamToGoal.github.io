@@ -14,3 +14,8 @@ thead {
 td {
     border-top: 1px solid hsl(250, 100%, 50%);
 }
+
+.code {
+    font-family: monospace;
+    background-color: beige;
+}
