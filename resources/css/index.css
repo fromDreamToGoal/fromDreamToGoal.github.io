@@ -17,6 +17,8 @@ header {
     display: inline-block;
     text-align: center;
     width: 100%;
+    height: auto;
+    background-image: url();
 }
 
 .content h1 {
