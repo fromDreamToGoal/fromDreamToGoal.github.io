@@ -6,3 +6,11 @@
     color: hsl(340, 100%, 50%);
     text-decoration: none;
 }
+
+
+
+.content {
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
