@@ -1,3 +1,7 @@
+header {
+    background-color: hsl(200, 95%, 92%);
+}
+
 .navigation {
     display: inline;
 }
@@ -13,4 +17,18 @@
     display: inline-block;
     text-align: center;
     width: 100%;
+}
+
+.content h1 {
+    font-family: 'Caprasimo', serif;
+    font-weight: 200;
+}
+
+.content p {
+    font-family: 'Mate', serif;
+}
+
+.content a:hover {
+    color: hsl(340, 100%, 50%);
+    text-decoration: none;
 }
