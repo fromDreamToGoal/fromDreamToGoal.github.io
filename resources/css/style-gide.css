@@ -10,10 +10,14 @@
     background-color: hsla(230, 100%, 50%, 0.437);
 }
 
-.color_container {
+.gray {
+    background-color: gray;
+}
+
+.color-container {
     display: inline-block;
-    width: 32%;
-    height: 200px;
+    width: 32%; 
+    height: 100px;
     margin: 20px auto;
     text-align: center;
 }
