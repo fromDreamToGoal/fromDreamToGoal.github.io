@@ -1,18 +1,3 @@
-header {
-    background-color: rgb(224, 255, 255);
-}
-
-.navigation {
-    display: inline;
-}
-
-.navigation a:hover {
-    color: hsl(340, 100%, 50%);
-    text-decoration: none;
-}
-
-
-
 .content {
     display: inline-block;
     text-align: center;
