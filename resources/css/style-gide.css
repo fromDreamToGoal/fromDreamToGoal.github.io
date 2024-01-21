@@ -35,22 +35,31 @@ body {
 
 
 .font-label {
-    font-size: 50px;
     text-decoration: underline;
+    letter-spacing: 1px;
+    font-size: 50px;
 }
 
 .block-font-josefin {
-    font-family: 'Josefin Sans', sans-serif;
-    font-size: 30px;
-    font-weight: 400;
+    display: inline-block;
     width: 45%;
-    height: fit-content;
+}
+
+.josefin-font {
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 .regular {
     font-style: normal;
+    font-size: 25px;
 }
 
 .bold {
     font-weight: 700;
+    font-size: 25px;
+}
+
+.italic {
+    font-style: italic;
+    font-size: 25px;
 }
