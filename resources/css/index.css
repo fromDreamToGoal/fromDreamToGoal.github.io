@@ -1,9 +1,8 @@
 .content {
-    display: inline-block;
+    background-color: hsl(192, 100%, 89%);
+    display: block;
     text-align: center;
     width: 100%;
-    height: auto;
-    background-image: url();
 }
 
 .content h1 {

@@ -7,7 +7,7 @@
 }
 
 .blue {
-    background-color: hsla(230, 100%, 50%, 0.437);
+    background-color: #2d5dcc;
 }
 
 .gray {
@@ -22,7 +22,7 @@
     text-align: center;
 }
 
-.color-box {
+.container {
     display: block;
     border: 3px solid gray;
     padding: 10px;
