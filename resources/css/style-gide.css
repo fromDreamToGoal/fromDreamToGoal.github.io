@@ -2,13 +2,25 @@
     background-color: lightcyan;
 }
 
+.beige {
+    background-color: beige;
+}
+
+.blue {
+    background-color: hsla(230, 100%, 50%, 0.437);
+}
+
 .color_container {
     display: inline-block;
     width: 32%;
     height: 200px;
     margin: 20px auto;
+    text-align: center;
 }
 
 .color-box {
+    display: block;
     border: 3px solid gray;
+    padding: 10px;
+    margin: 10px auto;
 }
