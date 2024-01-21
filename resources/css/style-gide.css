@@ -40,7 +40,7 @@ body {
     font-size: 50px;
 }
 
-.block-font-josefin {
+.block-font {
     display: inline-block;
     width: 45%;
 }
@@ -62,4 +62,8 @@ body {
 .italic {
     font-style: italic;
     font-size: 25px;
+}
+
+.saira-condensed {
+    font-family: 'Saira Condensed', sans-serif;
 }
