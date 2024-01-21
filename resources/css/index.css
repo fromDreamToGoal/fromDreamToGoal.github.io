@@ -8,10 +8,11 @@
 .content h1 {
     font-family: 'Salsa', sans-serif;
     font-weight: 200;
+    font-size: 40px;
 }
 
 .content p {
-    font-family: 'Saira Condensed', serif;
+    font-family: 'Saira Condensed', sans-serif;
 }
 
 .content a:hover {
