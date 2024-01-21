@@ -1,0 +1,14 @@
+.lightcyan {
+    background-color: lightcyan;
+}
+
+.color_container {
+    display: inline-block;
+    width: 32%;
+    height: 200px;
+    margin: 20px auto;
+}
+
+.color-box {
+    border: 3px solid gray;
+}
