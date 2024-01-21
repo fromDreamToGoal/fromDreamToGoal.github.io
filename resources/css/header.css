@@ -9,4 +9,6 @@ header {
 .navigation a:hover {
     color: hsl(340, 100%, 50%);
     text-decoration: none;
+    cursor: pointer;
 }
+

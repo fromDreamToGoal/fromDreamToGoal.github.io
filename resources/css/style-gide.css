@@ -32,3 +32,25 @@
 body {
     margin: 0 10%;
 }
+
+
+.font-label {
+    font-size: 50px;
+    text-decoration: underline;
+}
+
+.block-font-josefin {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    width: 45%;
+    height: fit-content;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: 700;
+}
