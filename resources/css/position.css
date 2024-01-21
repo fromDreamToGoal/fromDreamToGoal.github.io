@@ -20,3 +20,7 @@ td {
     font-family: monospace;
     background-color: beige;
 }
+
+body {
+    margin: 0 10%;
+}

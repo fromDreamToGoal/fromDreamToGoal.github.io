@@ -19,3 +19,7 @@
     color: hsl(340, 100%, 50%);
     text-decoration: none;
 }
+
+body {
+    margin: 0 10%;
+}
