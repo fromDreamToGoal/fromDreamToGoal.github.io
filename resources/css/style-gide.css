@@ -66,4 +66,9 @@ body {
 
 .saira-condensed {
     font-family: 'Saira Condensed', sans-serif;
+    line-height: 1.1;
+}
+
+.salsa {
+    font-family: 'Salsa', sans-serif;
 }
