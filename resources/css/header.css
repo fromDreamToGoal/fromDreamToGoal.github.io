@@ -1,5 +1,5 @@
 header {
-    background-color: rgb(224, 255, 255);
+    background-color: hsl(206, 47%, 3%);
 }
 
 .navigation {
@@ -10,5 +10,9 @@ header {
     color: hsl(340, 100%, 50%);
     text-decoration: none;
     cursor: pointer;
+}
+
+.navigation a {
+    color: hsl(1, 10%, 100%);
 }
 
