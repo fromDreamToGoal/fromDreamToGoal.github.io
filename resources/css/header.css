@@ -14,5 +14,6 @@ header {
 
 .navigation a {
     color: hsl(1, 10%, 100%);
+    text-decoration: none;
 }
 
